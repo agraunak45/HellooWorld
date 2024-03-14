@@ -1,0 +1,26 @@
+/* styles.css */
+
+body, html {
+    height: 100%;
+}
+
+.background {
+    background-color: #f2f2f2; /* Light gray background */
+    height: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.container-fluid {
+    padding: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+#message {
+    display: none;
+}
